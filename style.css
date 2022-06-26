@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  background-color: lightblue;
+}
+h1 {
+  color: darkgreen;
+}
+.container {
+  margin: 10px 10%;
+  width: auto;
+  text-align: center;
+}
+#shape {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  display: none;
+  position: relative;
+}
+
+.bold {
+  font-weight: bold;
+}
